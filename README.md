@@ -5,7 +5,7 @@ This repository hosts a full-stack to-do list application, built with a React fr
 
 Repository Structure
 
-Back Branch: Contains the code for the backend (Django) application.
+Backend Branch: Contains the code for the backend (Django) application.
 
 Master Branch: Contains the code for the frontend (React) application.
 
